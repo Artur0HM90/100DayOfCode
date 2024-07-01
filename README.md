@@ -1,6 +1,6 @@
-#100DaysOfCode
+# 100DaysOfCode
 
-Días 1-50: Ejercicios Fáciles
+## Días 1-50: Ejercicios Fáciles
 
 - [x] Hola Mundo: Escribe un programa que imprima "Hola, mundo".
 - [ ] Números Pares e Impares: Escribe un programa que determine si un número es par o impar.
@@ -52,7 +52,7 @@ Días 1-50: Ejercicios Fáciles
 - [ ] Conversion de enteros a palabras: Convierte un número entero en palabras.
 - [ ] Eliminar los elementos en índices pares de una lista: Elimina los elementos en los índices pares de una lista.
 
-Días 51-80: Ejercicios Intermedios
+## Días 51-80: Ejercicios Intermedios
 
 - [ ] Ordenar palabras alfabéticamente: Ordena las palabras en una cadena alfabéticamente.
 - [ ] Calcular el perímetro y área de un rectángulo: Escribe un programa que calcule el perímetro y el área de un rectángulo.
@@ -85,7 +85,7 @@ Días 51-80: Ejercicios Intermedios
 - [ ] Convertir un número a romano: Convierte un número entero a su representación en números romanos.
 - [ ] Calcular la potencia de un número: Calcula la potencia de un número usando bucles.
 
-Días 81-100: Ejercicios Difíciles
+## Días 81-100: Ejercicios Difíciles
 
 - [ ] Generar un laberinto: Escribe un programa que genere un laberinto aleatorio
 - [ ] Resolver un laberinto: Escribe un programa que resuelva un laberinto usando búsqueda en profundidad.
@@ -108,8 +108,7 @@ Días 81-100: Ejercicios Difíciles
 - [ ] Clasificación de imágenes: Implementa un sistema simple de clasificación de imágenes usando aprendizaje automático.
 - [ ] Red neuronal simple: Construye y entrena una red neuronal simple desde cero.
 
-
-**Ejercicios Avanzados EXTRAS**
+## **Ejercicios Avanzados EXTRAS**
 
 - [ ] Algoritmo de Ford-Fulkerson: Implementa el algoritmo de Ford-Fulkerson para encontrar el flujo máximo en un grafo de flujo.
 - [ ] Compilador de Lenguaje Intermedio: Escribe un compilador que traduzca un lenguaje de programación de alto nivel a un lenguaje intermedio como bytecode.
@@ -203,8 +202,7 @@ Días 81-100: Ejercicios Difíciles
 - [ ] Simulación de Economías Artificiales: Implementa una simulación de una economía artificial con múltiples agentes económicos.
 - [ ] Generación Procedural de Terrenos: Implementa un algoritmo de generación procedural de terrenos para su uso en videojuegos.
 
-
-**Ejercicios Muy Avanzados EXTRAS**
+## **Ejercicios Muy Avanzados EXTRAS**
 
 - [ ] Implementación de un Compilador de Lenguaje Completo: Diseña e implementa un compilador para un lenguaje de programación completamente nuevo, incluyendo análisis léxico, análisis sintáctico, generación de código intermedio y optimización.
 - [ ] Redes Neuronales Convolucionales 3D para Análisis de Volúmenes: Implementa una red neuronal convolucional 3D para la segmentación y clasificación de volúmenes médicos.
