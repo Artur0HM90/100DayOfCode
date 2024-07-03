@@ -4,7 +4,7 @@
 
 - [x] Hola Mundo: Escribe un programa que imprima "Hola, mundo".
 - [x] Números Pares e Impares: Escribe un programa que determine si un número es par o impar.
-- [ ] Suma de dos números: un círculo dado su radio.
+- [x] Suma de dos números: un círculo dado su radio.
 - [ ] Convertir grados Celsius a Fahrenheit: Escribe un programa que convierta grados Celsius a Fahrenheit.
 - [ ] Número positivo, negativo o cero: Determina si un número es positivo, negativo o cero.
 - [ ] Suma de números hasta n: Escribe un programa que sume todos los números desde 1 hasta n.
