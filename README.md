@@ -6,7 +6,7 @@
 - [x] Números Pares e Impares: Escribe un programa que determine si un número es par o impar.
 - [x] Suma de dos números: un círculo dado su radio.
 - [x] Convertir grados Celsius a Fahrenheit: Escribe un programa que convierta grados Celsius a Fahrenheit.
-- [ ] Número positivo, negativo o cero: Determina si un número es positivo, negativo o cero.
+- [x] Número positivo, negativo o cero: Determina si un número es positivo, negativo o cero.
 - [ ] Suma de números hasta n: Escribe un programa que sume todos los números desde 1 hasta n.
 - [ ] Tabla de multiplicar: Imprime la tabla de multiplicar de un número dado.
 - [ ] Factorial de un número: Calcula el factorial de un número dado.
