@@ -8,7 +8,7 @@
 - [x] Convertir grados Celsius a Fahrenheit: Escribe un programa que convierta grados Celsius a Fahrenheit.
 - [x] Número positivo, negativo o cero: Determina si un número es positivo, negativo o cero.
 - [x] Suma de números hasta n: Escribe un programa que sume todos los números desde 1 hasta n.
-- [ ] Tabla de multiplicar: Imprime la tabla de multiplicar de un número dado.
+- [x] Tabla de multiplicar: Imprime la tabla de multiplicar de un número dado.
 - [ ] Factorial de un número: Calcula el factorial de un número dado.
 - [ ] Número primo: Determina si un número es primo.
 - [ ] Inversión de una cadena: Invierte una cadena de caracteres dada.
