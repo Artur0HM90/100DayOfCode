@@ -9,7 +9,7 @@
 - [x] Número positivo, negativo o cero: Determina si un número es positivo, negativo o cero.
 - [x] Suma de números hasta n: Escribe un programa que sume todos los números desde 1 hasta n.
 - [x] Tabla de multiplicar: Imprime la tabla de multiplicar de un número dado.
-- [ ] Factorial de un número: Calcula el factorial de un número dado.
+- [x] Factorial de un número: Calcula el factorial de un número dado.
 - [ ] Número primo: Determina si un número es primo.
 - [ ] Inversión de una cadena: Invierte una cadena de caracteres dada.
 - [ ] Contar vocales y consonantes: Cuenta las vocales y consonantes en una cadena.
