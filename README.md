@@ -55,7 +55,7 @@
 ## Días 51-80: Ejercicios Intermedios
 
 - [ ] Ordenar palabras alfabéticamente: Ordena las palabras en una cadena alfabéticamente.
-- [ ] Calcular el perímetro y área de un rectángulo: Escribe un programa que calcule el perímetro y el área de un rectángulo.
+- [x] Calcular el perímetro y área de un rectángulo: Escribe un programa que calcule el perímetro y el área de un rectángulo.
 - [ ] Simulación de una cola: Simula una cola usando listas.
 - [ ] Simulación de una pila: Simula una pila usando listas.
 - [ ] Conversión de fechas: Convierte una fecha de formato "dd-mm-yyyy" a "yyyy-mm-dd".
