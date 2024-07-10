@@ -10,7 +10,7 @@
 - [x] 6. Suma de números hasta n: Escribe un programa que sume todos los números desde 1 hasta n.
 - [x] 7. Tabla de multiplicar: Imprime la tabla de multiplicar de un número dado.
 - [x] 8. Factorial de un número: Calcula el factorial de un número dado.
-- [ ] 9. Suma de números pares: Calcula la suma de los números pares entre 1 y 100.
+- [x] 9. Suma de números pares: Calcula la suma de los números pares entre 1 y 100.
 - [ ] 10. Suma de números impares: Calcula la suma de los números impares entre 1 y 100.
 - [ ] 11. Calificación: Determina la calificación de un estudiante basada en su puntaje (A, B, C, D, F).
 - [ ] 12. Adivina el número: Programa que le pida al usuario que adivine un número entre 1 y 100.
