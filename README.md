@@ -196,9 +196,6 @@
 - [ ] 189. Implementación de Algoritmo Aho-Corasick: Implementa el algoritmo Aho-Corasick para la búsqueda eficiente de patrones en texto.
 - [ ] 190. Clasificación de Imágenes con Redes Neuronales Profundas: Implementa una red neuronal profunda para la clasificación de imágenes.
 
-- [ ]
-- [ ]
-
 - [ ] 191. Simulación de Fenómenos Atmosféricos con Modelos de Fluidos Computacionales: Crea una simulación de fenómenos atmosféricos como la formación de nubes, tormentas oceánicas, o la circulación atmosférica global utilizando modelos de fluidos computacionales.
 - [ ] 192. Compresión de Video con Algoritmos de Aprendizaje Profundo: Desarrolla un sistema de compresión de video utilizando técnicas de aprendizaje profundo.
 - [ ] 193. Implementación de un Sistema de Monitorización de Salud en Tiempo Real: Desarrolla un sistema que monitoree y analice datos de salud en tiempo real utilizando dispositivos portátiles y machine learning.
