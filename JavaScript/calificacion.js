@@ -7,24 +7,24 @@ for (let index = 1; index <= cuantasNotasVasIngresar; index++) {
     document.write(`Calificaión ${index}: ${notas}  <br> `)
     promedio += notas / cuantasNotasVasIngresar
 }   
-document.write(promedio)
+document.write(promedio, "<br>") 
 
 if (promedio < 3) {
-    cout << "Tu calificación es F.";
+    document.write("Tu calificación es F.")
 }
 
 else if (promedio < 8) {
-    cout << "Tu calificación es: D";
+    document.write("Tu calificación es: D.")
 }
 
 else if (promedio < 11) {
-    cout << "Tu calificación es: C";
+    document.write("Tu calificación es: C.")
 }
 
 else if (promedio < 15) {
-    cout << "Tu calificación es: B";
+    document.write("Tu calificación es: B.")
 }
 
 else {
-    cout << "Tu calificación es: A";
+    document.write("Tu calificación es: A.")
 }
