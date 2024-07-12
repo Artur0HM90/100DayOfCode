@@ -12,7 +12,7 @@
 - [x] 8. Factorial de un número: Calcula el factorial de un número dado.
 - [x] 9. Suma de números pares: Calcula la suma de los números pares entre 1 y 100.
 - [x] 10. Suma de números impares: Calcula la suma de los números impares entre 1 y 100.
-- [ ] 11. Calificación: Determina la calificación de un estudiante basada en su puntaje (A, B, C, D, F).
+- [x] 11. Calificación: Determina la calificación de un estudiante basada en su puntaje (A, B, C, D, F).
 - [ ] 12. Adivina el número: Programa que le pida al usuario que adivine un número entre 1 y 100.
 - [ ] 13. Números primos hasta N: Encuentra todos los números primos hasta un número dado.
 - [ ] 14. Sumar elementos de una lista: Suma todos los elementos de una lista.
