@@ -28,7 +28,7 @@
 - [ ] 24. Suma de matrices: Suma dos matrices de tamaño 3x3.
 - [ ] 25. Producto de matrices: Calcula el producto de dos matrices de tamaño 2x2.
 - [ ] 26. Factorial recursivo: Calcula el factorial de un número utilizando recursión.
-- [ ] 27. Mayor de tres números: Encuentra el mayor de tres números.
+- [x] 27. Mayor de tres números: Encuentra el mayor de tres números.
 - [ ] 28. Número Armstrong: Verifica si un número es un número Armstrong.
 - [ ] 29. Ordenar números: Ordena tres números en orden ascendente.
 - [ ] 30. Multiplicar matrices: Multiplica dos matrices de tamaño 2x2.
