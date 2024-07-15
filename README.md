@@ -14,94 +14,96 @@
 - [x] 10. Suma de números impares: Calcula la suma de los números impares entre 1 y 100.
 - [x] 11. Calificación: Determina la calificación de un estudiante basada en su puntaje (A, B, C, D, F).
 - [x] 12. Adivina el número: Programa que le pida al usuario que adivine un número entre 1 y 100.
-- [ ] 13. Números primos hasta N: Encuentra todos los números primos hasta un número dado.
-- [ ] 14. Sumar elementos de una lista: Suma todos los elementos de una lista.
-- [ ] 15. Mayor y menor de una lista: Encuentra el mayor y el menor número en una lista.
-- [ ] 16. Fibonacci: Genera la serie de Fibonacci hasta N términos.
-- [ ] 17. Números perfectos: Encuentra todos los números perfectos entre 1 y 1000.
-- [ ] 18. Palíndromo: Verifica si una cadena de texto es un palíndromo.
+- [x] 13. Mayor de tres números: Encuentra el mayor de tres números.
+- [x] 14. Calcular el perímetro y área de un rectángulo: Escribe un programa.
+- [ ] 15. Simular un dado: Simula el lanzamiento de un dado.
+- [ ] 16. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
+- [ ] 17. Conversión de decimal a binario: Convierte un número decimal a binario.
+- [ ] 18. Conversión de binario a decimal: Convierte un número binario a decimal.
 - [ ] 19. Sumar dígitos: Calcula la suma de los dígitos de un número entero.
 - [ ] 20. Invertir número: Invierte los dígitos de un número entero.
-- [ ] 21. Días en el mes: Determina cuántos días tiene un mes dado (considerando años bisiestos).
-- [ ] 22. Conversión de decimal a binario: Convierte un número decimal a binario.
-- [ ] 23. Conversión de binario a decimal: Convierte un número binario a decimal.
-- [ ] 24. Suma de matrices: Suma dos matrices de tamaño 3x3.
-- [ ] 25. Producto de matrices: Calcula el producto de dos matrices de tamaño 2x2.
-- [ ] 26. Factorial recursivo: Calcula el factorial de un número utilizando recursión.
-- [x] 27. Mayor de tres números: Encuentra el mayor de tres números.
-- [ ] 28. Número Armstrong: Verifica si un número es un número Armstrong.
-- [ ] 29. Ordenar números: Ordena tres números en orden ascendente.
-- [ ] 30. Multiplicar matrices: Multiplica dos matrices de tamaño 2x2.
-- [ ] 31. Media, moda y mediana: Calcula la media, moda y mediana de un conjunto de números.
-- [ ] 32. Juego de adivinanza: Programa que permita al usuario jugar a adivinar un número con intentos limitados.
-- [ ] 33. Números amigables: Verifica si dos números son números amigables.
-- [ ] 34. Calcular edad a partir de la fecha de nacimiento: Calcula la edad de una persona dado su año de nacimiento.
-- [ ] 35. Convertir minutos a horas y minutos: Convierte una cantidad de minutos en horas y minutos.
-- [ ] 36. Calcular el máximo común divisor (MCD): Encuentra el MCD de dos números.
-- [ ] 37. Calcular el mínimo común múltiplo (MCM): Encuentra el MCM de dos números.
-- [ ] 38. Simular un dado: Simula el lanzamiento de un dado.
-- [ ] 39. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
-- [ ] 40. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
-- [ ] 41. Secuencia de Collatz: Genera la secuencia de Collatz para un número dado.
-- [ ] 42. Números felices: Verifica si un número es un número feliz.
-- [ ] 43. Patrón de números: Imprime un patrón de números como un triángulo.
-- [ ] 44. Buscar un elemento en un arreglo: Busca un número en un arreglo dado.
-- [ ] 45. Conversion de número romano a entero: Convierte un número romano a entero.
-- [ ] 46. Contar palabras: Cuenta el número de palabras en una cadena de texto.
-- [ ] 47. Calcular el interés compuesto: Calcula el interés compuesto de una inversión.
-- [ ] 48. Cifrado César: Implementa un cifrado César simple.
-- [ ] 49. Conversión de unidades: Convierte kilómetros a millas y viceversa.
-- [ ] 50. Operaciones con conjuntos: Realiza operaciones de unión e intersección en conjuntos.
-- [x] 51. Calcular el perímetro y área de un rectángulo: Escribe un programa que calcule el perímetro y el área de un rectángulo.
-- [ ] 52. Calculadora: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
-- [ ] 53. Sumar hasta que el usuario decida: Suma números ingresados por el usuario hasta que decida parar.
-- [ ] 54. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
-- [ ] 55. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
-- [ ] 56. Número triangular: Verifica si un número es un número triangular.
-- [ ] 57. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
-- [ ] 58. Año bisiesto: Verifica si un año dado es bisiesto.
-- [ ] 59. Juego de piedra, papel o tijeras: Crea un juego de piedra, papel o tijeras contra la computadora.
-- [ ] 60. Simular un lanzamiento de moneda: Simula el lanzamiento de una moneda.
-- [ ] 61. Área y perímetro: Calcula el área y el perímetro de figuras geométricas básicas.
-- [ ] 62. Conversión de tiempo: Convierte horas y minutos a segundos.
-- [ ] 63. Conversión de monedas: Convierte una cantidad de una moneda a otra.
-- [ ] 64. Generador de contraseñas: Genera contraseñas seguras aleatoriamente.
-- [ ] 65. Triángulo de Pascal: Genera el triángulo de Pascal hasta un nivel dado.
-- [ ] 66. Contador de vocales y consonantes: Cuenta el número de vocales y consonantes en una cadena de texto.
-- [ ] 67. Conversión de número a hexadecimal y viceversa: Escribe funciones para convertir números entre decimal y hexadecimal.
-- [ ] 68. Simulación de un reloj digital: Escribe un programa que simule un reloj digital.
-- [ ] 69. Conversión de números romanos: Convierte un número romano a un número entero.
-- [ ] 70. Conversión de enteros a números romanos: Convierte un número entero a un número romano.
-- [ ] 71. Anagramas: Verifica si dos cadenas de texto son anagramas.
-- [ ] 72 Calcular la raíz cuadrada de un número: Calcula la raíz cuadrada de un número sin usar la función sqrt().
-- [ ] 73. Cuenta regresiva: Implementa una cuenta regresiva desde un número dado.
-- [ ] 74. Buscar el número faltante: En una lista de números del 1 al 100, encuentra el número que falta.
-- [ ] 75. Matriz transpuesta: Calcula la transpuesta de una matriz.
-- [ ] 76. Buscar en una matriz: Implementa una búsqueda de un elemento en una matriz 2D.
-- [ ] 77. Cálculo de la potencia: Implementa una función para calcular la potencia de un número.
-- [ ] 78. Distancia Euclidiana: Calcula la distancia euclidiana entre dos puntos en un espacio 2D.
-- [ ] 79. Cálculo de raíces cuadradas: Implementa una función para calcular la raíz cuadrada de un número sin usar bibliotecas matemáticas.
-- [ ] 80. Verificación de balanceo de paréntesis: Verifica si una cadena de texto tiene los paréntesis balanceados.
-- [ ] 81. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
-- [ ] 82. Simulación de tráfico: Simula un semáforo con tiempos de espera para cada luz.
-- [ ] 83. Números de Fibonacci recursivos: Implementa la serie de Fibonacci utilizando recursión.
-- [ ] 84. Compresión de cadenas: Implementa un algoritmo de compresión de cadenas de texto.
-- [ ] 85. Descompresión de cadenas: Implementa un algoritmo de descompresión de cadenas de texto.
-- [ ] 86. Simulación de colas: Simula una cola de personas en una fila y realiza operaciones de encolar y desencolar.
-- [ ] 87. Conversión de bases numéricas: Convierte números entre diferentes bases (binario, octal, decimal, hexadecimal).
-- [ ] 88. Simulación de pila: Simula una pila y realiza operaciones de apilar y desapilar.
-- [ ] 89. Generar permutaciones: Genera todas las permutaciones posibles de un conjunto de elementos.
-- [ ] 90. Números palindrómicos: Encuentra todos los números palindrómicos entre 1 y 1000.
-- [ ] 91. Validación de ISBN: Implementa una función para validar números ISBN.
-- [ ] 92. Conversión de texto a voz: Convierte un texto dado a voz utilizando una API.
-- [ ] 93. Procesamiento de imágenes: Implementa operaciones básicas de procesamiento de imágenes (invertir colores, escala de grises).
-- [ ] 94. Verificación de identidad: Implementa un algoritmo para verificar la identidad de una persona utilizando su información personal.
-- [ ] 95. Resolución de ecuaciones cuadráticas: Implementa una función para resolver ecuaciones cuadráticas.
-- [ ] 96. Algoritmo de ordenamiento burbuja: Implementa el algoritmo de ordenamiento burbuja.
-- [ ] 97. Algoritmo de ordenamiento de inserción: Implementa el algoritmo de ordenamiento de inserción.
-- [ ] 98. Algoritmo de ordenamiento de selección: Implementa el algoritmo de ordenamiento de selección.
-- [ ] 99. Algoritmo de ordenamiento rápido (quicksort): Implementa el algoritmo de ordenamiento rápido.
-- [ ] 100. Algoritmo de búsqueda binaria: Implementa el algoritmo de búsqueda binaria.
+- [ ] 21. Conversión de unidades: Convierte kilómetros a millas y viceversa.
+- [ ] 22. Conversion de número romano a entero: Convierte un número romano a entero.
+- [ ] 23. Mayor y menor de una lista: Encuentra el mayor y el menor número en una lista.
+- [ ] 24. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
+- [ ] 25. Palíndromo: Verifica si una cadena de texto es un palíndromo.
+- [ ] 26. Ordenar números: Ordena tres números en orden ascendente.
+- [ ] 30. Números primos hasta N: Encuentra todos los números primos hasta un número dado.
+- [ ] 31. Fibonacci: Genera la serie de Fibonacci hasta N términos.
+- [ ] 32. Sumar elementos de una lista: Suma todos los elementos de una lista.
+- [ ] 33. Factorial recursivo: Calcula el factorial de un número utilizando recursión.
+- [ ] 34. Juego de adivinanza: Programa que permita al usuario jugar a adivinar un número con intentos limitados.
+- [ ] 35. Números perfectos: Encuentra todos los números perfectos entre 1 y 1000.
+- [ ] 36. Números amigables: Verifica si dos números son números amigables.
+- [ ] 37. Calcular edad a partir de la fecha de nacimiento: Calcula la edad de una persona dado su año de nacimiento.
+- [ ] 38. Días en el mes: Determina cuántos días tiene un mes dado (considerando años bisiestos).
+- [ ] 40. Media, moda y mediana: Calcula la media, moda y mediana de un conjunto de números.
+- [ ] 41. Multiplicar matrices: Multiplica dos matrices de tamaño 2x2.
+- [ ] 42. Suma de matrices: Suma dos matrices de tamaño 3x3.
+- [ ] 43. Producto de matrices: Calcula el producto de dos matrices de tamaño 2x2.
+- [ ] 44. Calcular el máximo común divisor (MCD): Encuentra el MCD de dos números.
+- [ ] 45. Calcular el mínimo común múltiplo (MCM): Encuentra el MCM de dos números.
+- [ ] 46. Simular un dado: Simula el lanzamiento de un dado.
+- [ ] 47. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
+- [ ] 48. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
+- [ ] 49. Secuencia de Collatz: Genera la secuencia de Collatz para un número dado.
+- [ ] 50. Números felices: Verifica si un número es un número feliz.
+- [ ] 51. Patrón de números: Imprime un patrón de números como un triángulo.
+- [ ] 52. Buscar un elemento en un arreglo: Busca un número en un arreglo dado.
+- [ ] 53. Conversion de número romano a entero: Convierte un número romano a entero.
+- [ ] 54. Contar palabras: Cuenta el número de palabras en una cadena de texto.
+- [ ] 55. Calcular el interés compuesto: Calcula el interés compuesto de una inversión.
+- [ ] 56. Cifrado César: Implementa un cifrado César simple.
+- [ ] 57. Conversión de unidades: Convierte kilómetros a millas y viceversa.
+- [ ] 58. Operaciones con conjuntos: Realiza operaciones de unión e intersección en conjuntos.
+- [ ] 59. Calculadora: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
+- [ ] 60. Sumar hasta que el usuario decida: Suma números ingresados por el usuario hasta que decida parar.
+- [ ] 61. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
+- [ ] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
+- [ ] 63. Número triangular: Verifica si un número es un número triangular.
+- [ ] 64. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
+- [ ] 65. Año bisiesto: Verifica si un año dado es bisiesto.
+- [ ] 66. Juego de piedra, papel o tijeras: Crea un juego de piedra, papel o tijeras contra la computadora.
+- [ ] 67. Simular un lanzamiento de moneda: Simula el lanzamiento de una moneda.
+- [ ] 68. Área y perímetro: Calcula el área y el perímetro de figuras geométricas básicas.
+- [ ] 69. Conversión de tiempo: Convierte horas y minutos a segundos.
+- [ ] 70. Conversión de monedas: Convierte una cantidad de una moneda a otra.
+- [ ] 71. Generador de contraseñas: Genera contraseñas seguras aleatoriamente.
+- [ ] 72. Contador de vocales y consonantes: Cuenta el número de vocales y consonantes en una cadena de texto.
+- [ ] 73. Conversión de número a hexadecimal y viceversa: Escribe funciones para convertir números entre decimal y hexadecimal.
+- [ ] 74. Cuenta regresiva: Implementa una cuenta regresiva desde un número dado.
+- [ ] 75. Conversión de enteros a números romanos: Convierte un número entero a un número romano.
+- [ ] 76. Conversión de números romanos: Convierte un número romano a un número entero.
+- [ ] 77. Anagramas: Verifica si dos cadenas de texto son anagramas.
+- [ ] 78. Buscar el número faltante: En una lista de números del 1 al 100, encuentra el número que falta.
+- [ ] 79. Verificación de balanceo de paréntesis: Verifica si una cadena de texto tiene los paréntesis balanceados.
+- [ ] 80. Simulación de un reloj digital: Escribe un programa que simule un reloj digital.
+- [ ] 81. Triángulo de Pascal: Genera el triángulo de Pascal hasta un nivel dado.
+- [ ] 82. Matriz transpuesta: Calcula la transpuesta de una matriz.
+- [ ] 83. Buscar en una matriz: Implementa una búsqueda de un elemento en una matriz 2D.
+- [ ] 84. Cálculo de la potencia: Implementa una función para calcular la potencia de un número.
+- [ ] 85. Distancia Euclidiana: Calcula la distancia euclidiana entre dos puntos en un espacio 2D.
+- [ ] 86. Cálculo de raíces cuadradas: Implementa una función para calcular la raíz cuadrada de un número sin usar bibliotecas matemáticas.
+- [ ] 87. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
+- [ ] 88. Simulación de tráfico: Simula un semáforo con tiempos de espera para cada luz.
+- [ ] 89. Números de Fibonacci recursivos: Implementa la serie de Fibonacci utilizando recursión.
+- [ ] 90. Compresión de cadenas: Implementa un algoritmo de compresión de cadenas de texto.
+- [ ] 91. Descompresión de cadenas: Implementa un algoritmo de descompresión de cadenas de texto.
+- [ ] 92. Simulación de colas: Simula una cola de personas en una fila y realiza operaciones de encolar y desencolar.
+- [ ] 93. Conversión de bases numéricas: Convierte números entre diferentes bases (binario, octal, decimal, hexadecimal).
+- [ ] 94. Simulación de pila: Simula una pila y realiza operaciones de apilar y desapilar.
+- [ ] 95. Generar permutaciones: Genera todas las permutaciones posibles de un conjunto de elementos.
+- [ ] 96. Números palindrómicos: Encuentra todos los números palindrómicos entre 1 y 1000.
+- [ ] 97. Validación de ISBN: Implementa una función para validar números ISBN.
+- [ ] 98. Conversión de texto a voz: Convierte un texto dado a voz utilizando una API.
+- [ ] 99. Procesamiento de imágenes: Implementa operaciones básicas de procesamiento de imágenes (invertir colores, escala de grises).
+- [ ] 100. Verificación de identidad: Implementa un algoritmo para verificar la identidad de una persona utilizando su información personal.
+- [ ] 101. Resolución de ecuaciones cuadráticas: Implementa una función para resolver ecuaciones cuadráticas.
+- [ ] 102. Algoritmo de ordenamiento burbuja: Implementa el algoritmo de ordenamiento burbuja.
+- [ ] 103. Algoritmo de ordenamiento de inserción: Implementa el algoritmo de ordenamiento de inserción.
+- [ ] 104. Algoritmo de ordenamiento de selección: Implementa el algoritmo de ordenamiento de selección.
+- [ ] 105. Algoritmo de ordenamiento rápido (quicksort): Implementa el algoritmo de ordenamiento rápido.
+- [ ] 106. Algoritmo de búsqueda binaria: Implementa el algoritmo de búsqueda binaria.
 
 ## **Ejercicios Muy Avanzados EXTRAS**
 
