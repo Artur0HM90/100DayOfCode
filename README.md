@@ -58,7 +58,7 @@
 - [ ] 58. Operaciones con conjuntos: Realiza operaciones de unión e intersección en conjuntos.
 - [ ] 59. Calculadora: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
 - [ ] 60. Sumar hasta que el usuario decida: Suma números ingresados por el usuario hasta que decida parar.
-- [ ] 61. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
+- [x] 61. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
 - [ ] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
 - [ ] 63. Número triangular: Verifica si un número es un número triangular.
 - [ ] 64. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
