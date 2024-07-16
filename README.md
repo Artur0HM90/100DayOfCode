@@ -59,7 +59,7 @@
 - [ ] 59. Calculadora: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
 - [ ] 60. Sumar hasta que el usuario decida: Suma números ingresados por el usuario hasta que decida parar.
 - [x] 61. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
-- [ ] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
+- [x] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
 - [ ] 63. Número triangular: Verifica si un número es un número triangular.
 - [ ] 64. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
 - [ ] 65. Año bisiesto: Verifica si un año dado es bisiesto.
