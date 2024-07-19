@@ -81,7 +81,7 @@
 - [ ] 81. Triángulo de Pascal: Genera el triángulo de Pascal hasta un nivel dado.
 - [ ] 82. Matriz transpuesta: Calcula la transpuesta de una matriz.
 - [ ] 83. Buscar en una matriz: Implementa una búsqueda de un elemento en una matriz 2D.
-- [ ] 84. Cálculo de la potencia: Implementa una función para calcular la potencia de un número.
+- [x] 84. Cálculo de la potencia: Implementa una función para calcular la potencia de un número.
 - [ ] 85. Distancia Euclidiana: Calcula la distancia euclidiana entre dos puntos en un espacio 2D.
 - [ ] 86. Cálculo de raíces cuadradas: Implementa una función para calcular la raíz cuadrada de un número sin usar bibliotecas matemáticas.
 - [ ] 87. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
