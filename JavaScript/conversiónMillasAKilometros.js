@@ -47,6 +47,6 @@ switch (opcion) {
         break;
 
     default:
-        document.write("ERROR - Debes ingresar entre 1 - 2.")
+        document.write("ERROR - Debes ingresa")
         break;
 }
