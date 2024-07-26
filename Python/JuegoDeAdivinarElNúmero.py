@@ -4,5 +4,5 @@ while ingresaNumeroOcult0 != ingresaNumero:
     ingresaNumero = int(input("Adivina el numero oculto: "))
     if ingresaNumeroOcult0 == ingresaNumero:
         print(f"BIEN adivinaste el número oculto es {ingresaNumero}")
-        break
+        break 
     print("ERROR - intenta otra vez")
