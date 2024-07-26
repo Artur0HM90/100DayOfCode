@@ -35,7 +35,7 @@
 - [ ] 34. Juego de adivinanza: Programa que permita al usuario jugar a adivinar un número con intentos limitados.
 - [ ] 35. Números perfectos: Encuentra todos los números perfectos entre 1 y 1000.
 - [ ] 36. Números amigables: Verifica si dos números son números amigables.
-- [ ] 37. Calcular edad a partir de la fecha de nacimiento: Calcula la edad de una persona dado su año de nacimiento.
+- [x] 37. Calcular edad a partir de la fecha de nacimiento: Calcula la edad de una persona dado su año de nacimiento.
 - [ ] 38. Días en el mes: Determina cuántos días tiene un mes dado (considerando años bisiestos).
 - [ ] 40. Media, moda y mediana: Calcula la media, moda y mediana de un conjunto de números.
 - [ ] 41. Multiplicar matrices: Multiplica dos matrices de tamaño 2x2.
@@ -84,7 +84,7 @@
 - [x] 84. Cálculo de la potencia: Implementa una función para calcular la potencia de un número.
 - [ ] 85. Distancia Euclidiana: Calcula la distancia euclidiana entre dos puntos en un espacio 2D.
 - [ ] 86. Cálculo de raíces cuadradas: Implementa una función para calcular la raíz cuadrada de un número sin usar bibliotecas matemáticas.
-- [ ] 87. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
+- [x] 87. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
 - [ ] 88. Simulación de tráfico: Simula un semáforo con tiempos de espera para cada luz.
 - [ ] 89. Números de Fibonacci recursivos: Implementa la serie de Fibonacci utilizando recursión.
 - [ ] 90. Compresión de cadenas: Implementa un algoritmo de compresión de cadenas de texto.
