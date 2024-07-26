@@ -17,7 +17,7 @@
 - [x] 13. Mayor de tres números: Encuentra el mayor de tres números.
 - [x] 14. Calcular el perímetro y área de un rectángulo: Escribe un programa.
 - [ ] 15. Simular un dado: Simula el lanzamiento de un dado.
-- [ ] 16. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
+- [x] 16. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
 - [ ] 17. Conversión de decimal a binario: Convierte un número decimal a binario.
 - [ ] 18. Conversión de binario a decimal: Convierte un número binario a decimal.
 - [ ] 19. Sumar dígitos: Calcula la suma de los dígitos de un número entero.
