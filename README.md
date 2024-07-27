@@ -62,7 +62,7 @@
 - [x] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
 - [ ] 63. Número triangular: Verifica si un número es un número triangular.
 - [ ] 64. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
-- [ ] 65. Año bisiesto: Verifica si un año dado es bisiesto.
+- [x] 65. Año bisiesto: Verifica si un año dado es bisiesto.
 - [ ] 66. Juego de piedra, papel o tijeras: Crea un juego de piedra, papel o tijeras contra la computadora.
 - [ ] 67. Simular un lanzamiento de moneda: Simula el lanzamiento de una moneda.
 - [ ] 68. Área y perímetro: Calcula el área y el perímetro de figuras geométricas básicas.
