@@ -1,40 +1,36 @@
 #include <iostream>
 using namespace std;
 
-int ingresarUnNumero(int numero, int solucion)
+int collatz(int ingresaUnNumero)
 {
-    if (numero % 2 == 0)
+    /*
+    cout << "Ingresa un número: ";
+    cin >> ingresaUnNumero;
+    */
+
+    if (ingresaUnNumero % 2 == 0)
     {
-        cout << "Ingresa un número: ";
-        cin >> numero;
-        return solucion = numero / 2;
+        return ingresaUnNumero / 2;
     }
 
     else
     {
-        cout << "Ingresa un número: ";
-        cin >> numero;
-        return solucion = ((3 * numero) + 1);
+        return ((3 * ingresaUnNumero) + 1);
     }
-    cout << solucion;
 }
-/*
-int numeroPar(int ingresarUnNumero)
-{
-    cout << "Ingresa un número: ";
-    cin >> ingresarUnNumero;
-    return ingresarUnNumero / 2;
-}
-
-int numeroImpar(int ingresarUnNumero2)
-{
-    cout << "Ingresa un número: ";
-    cin >> ingresarUnNumero2;
-    return ((3 * ingresarUnNumero2) + 1);
-}
-*/
 int main()
 {
-    int ingresaUnNumeroAqui, resultado;
-    cout << ingresarUnNumero(ingresaUnNumeroAqui, resultado);
+    int ingresaNumero, resultado;
+    cout << "Ingresa un número: ";
+    cin >> ingresaNumero;
+
+    cout << "Secu8encia:  " << ingresaNumero;
+
+    while (ingresaNumero != 1)
+    {
+        ingresaNumero = collatz(ingresaNumero);
+        cout << "-> " << ingresaNumero;
+    }
+    cout << endl;
+    return 0;
 }
