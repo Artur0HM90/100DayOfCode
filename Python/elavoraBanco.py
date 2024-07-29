@@ -20,7 +20,7 @@ if opcion == 1:
 
 elif opcion == 2:
     print ("Vas a retirar")
-    print(f"Tu saldo es de 1000")
+    print(f"Tu saldo es de ")
 
 elif opcion == 3:
     print("")
