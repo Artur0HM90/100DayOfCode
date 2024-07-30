@@ -56,7 +56,7 @@
 - [ ] 56. Cifrado César: Implementa un cifrado César simple.
 - [ ] 57. Conversión de unidades: Convierte kilómetros a millas y viceversa.
 - [ ] 58. Operaciones con conjuntos: Realiza operaciones de unión e intersección en conjuntos.
-- [ ] 59. Calculadora Con Funciones: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
+- [x] 59. Calculadora Con Funciones: Implementa una calculadora simple que permita sumar, restar, multiplicar y dividir.
 - [ ] 60. Sumar hasta que el usuario decida: Suma números ingresados por el usuario hasta que decida parar.
 - [x] 61. Tablas de multiplicar: Genera todas las tablas de multiplicar del 1 al 10.
 - [x] 62. Promedio de calificaciones: Calcula el promedio de calificaciones de una clase.
