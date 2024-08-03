@@ -72,7 +72,7 @@
 - [ ] 72. Contador de vocales y consonantes: Cuenta el número de vocales y consonantes en una cadena de texto.
 - [ ] 73. Conversión de número a hexadecimal y viceversa: Escribe funciones para convertir números entre decimal y hexadecimal.
 - [ ] 74. Cuenta regresiva: Implementa una cuenta regresiva desde un número dado.
-- [ ] 75. Conversión de enteros a números romanos: Convierte un número entero a un número romano.
+- [x] 75. Cada manzana cuesta 50 céntimos, pero si compran más de 20 manzanas se le hace un descuento del 10%; y si la venta supera las 100 manzanas se le hace un descuento del 20%. Elaborar un algoritmo que indique el monto a pagar. romano.
 - [ ] 76. Conversión de números romanos: Convierte un número romano a un número entero.
 - [ ] 77. Anagramas: Verifica si dos cadenas de texto son anagramas.
 - [ ] 78. Buscar el número faltante: En una lista de números del 1 al 100, encuentra el número que falta.
