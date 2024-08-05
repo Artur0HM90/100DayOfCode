@@ -64,7 +64,7 @@
 - [ ] 64. Calcular la desviación estándar: Calcula la desviación estándar de una lista de números.
 - [x] 65. Año bisiesto: Verifica si un año dado es bisiesto.
 - [ ] 66. Juego de piedra, papel o tijeras: Crea un juego de piedra, papel o tijeras contra la computadora.
-- [ ] 67. Simular un lanzamiento de moneda: Simula el lanzamiento de una moneda.
+- [x] 67. Una tienda de ropa se encuentra en liquidación y está ofreciendo un descuento del 60%. Elaborar el algoritmo que permita ingresar el precio del producto y que nos muestre cuanto se debe de pagar.
 - [ ] 68. Área y perímetro: Calcula el área y el perímetro de figuras geométricas básicas.
 - [ ] 69. Conversión de tiempo: Convierte horas y minutos a segundos.
 - [ ] 70. Conversión de monedas: Convierte una cantidad de una moneda a otra.
