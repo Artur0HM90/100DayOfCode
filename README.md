@@ -87,7 +87,7 @@
 - [x] 87. Cálculo del promedio ponderado: Calcula el promedio ponderado de una lista de números.
 - [ ] 88. Simulación de tráfico: Simula un semáforo con tiempos de espera para cada luz.
 - [ ] 89. Números de Fibonacci recursivos: Implementa la serie de Fibonacci utilizando recursión.
-- [ ] 90. Compresión de cadenas: Implementa un algoritmo de compresión de cadenas de texto.
+- [ ] 90. Elaborar un algoritmo que encuentre el número menor entre 4 números.
 - [ ] 91. Descompresión de cadenas: Implementa un algoritmo de descompresión de cadenas de texto.
 - [ ] 92. Simulación de colas: Simula una cola de personas en una fila y realiza operaciones de encolar y desencolar.
 - [ ] 93. Conversión de bases numéricas: Convierte números entre diferentes bases (binario, octal, decimal, hexadecimal).
