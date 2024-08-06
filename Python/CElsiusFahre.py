@@ -11,3 +11,6 @@ match (opcion):
         ingresaTemperatura = float(input("Ingresa temperatura en Fahrenheit: "))
         FahrenheitCelsi = round((ingresaTemperatura - 32) * 5/9)
         print (f"De {ingresaTemperatura} Fahrenheit a {FahrenheitCelsi:.0f} grados Celsius.")
+    
+
+
