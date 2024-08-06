@@ -45,7 +45,7 @@
 - [ ] 45. Calcular el mínimo común múltiplo (MCM): Encuentra el MCM de dos números.
 - [ ] 46. Simular un dado: Simula el lanzamiento de un dado.
 - [ ] 47. Juego de adivinar el número: Escribe un juego donde el usuario debe adivinar un número aleatorio.
-- [ ] 48. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
+- [ ] 48. Escribe un programa que convierta una temperatura dada en Celsius a Fahrenheit y viceversa..
 - [x] 49. Secuencia de Collatz: Genera la secuencia de Collatz para un número dado.
 - [ ] 50. Números felices: Verifica si un número es un número feliz.
 - [ ] 51. Patrón de números: Imprime un patrón de números como un triángulo.
