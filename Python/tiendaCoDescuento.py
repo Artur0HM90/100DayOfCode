@@ -8,6 +8,7 @@ envioInternacional = 25     # si eñ monto de compra es menor a 300
 
 montoDeLaCompra = 0
 nomtoConDescuento = 0
+precioConEnvio = 0
 
 nombreDelCliente = input("Ingresa nombres del cliente: ")
 # print((nombreDelCliente).title())
@@ -63,23 +64,78 @@ match (tipoDeCliente):
                 
                 elif montoDeLaCompra < 150:
                     print("------------RECIBO------------")
-                    print("-----Compra internacional-----")
+                    print("-------Compra nacional--------")
                     print(nombreDelCliente.title())
-                    nomtoConDescuento = montoDeLaCompra * descuentoVip
+                    precioConEnvio = montoDeLaCompra + envioNacional
                     print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
-                    print(f"Descuento del 10% que es ${nomtoConDescuento:.2f} dolares.")
-                    print(f"Total a pagar es de ${montoDeLaCompra - nomtoConDescuento:.2f} dolares")
-
-
-
+                    print(f"Precio del envio nacional ${envioNacional:.2f} dolares.")
+                    print(f"Total a pagar es de ${precioConEnvio:.2f} dolares")
 
             case 2:
                 montoDeLaCompra = float(input("Ingresa el monto de la compra: "))
-                print("------------RECIBO------------")
-                print("-----Compra internacional-----")
-                print(nombreDelCliente.title())
-                print(f"Total a pagar es de: ${montoDeLaCompra:.2f} dolares")
+                if (montoDeLaCompra >= 300):
+                    print("------------RECIBO------------")
+                    print("----Compra internacional------")
+                    print(nombreDelCliente.title())
+                    nomtoConDescuento = montoDeLaCompra * descuentoPremium
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Descuento del 10% que es ${nomtoConDescuento:.2f} dolares.")
+                    print(f"Total a pagar es de ${montoDeLaCompra - nomtoConDescuento:.2f} dolares")
+                
+                elif montoDeLaCompra < 300:
+                    print("------------RECIBO------------")
+                    print("----Compra internacional------")
+                    print(nombreDelCliente.title())
+                    precioConEnvio = montoDeLaCompra + envioInternacional
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Precio del envio nacional ${envioInternacional:.2f} dolares.")
+                    print(f"Total a pagar es de ${precioConEnvio:.2f} dolares")
 
     case 3:
         print("Es un cliente VIP")
 
+        print("La compra fue")
+        print("1. Nacinal.")
+        print("2. Internacional.")
+        compraNaciInter = int(input("Elige 1 - 2: "))
+        print("-----------------")
+        match (compraNaciInter):
+            case 1:
+                montoDeLaCompra = float(input("Ingresa el monto de la compra: "))
+                if (montoDeLaCompra >= 200):
+                    print("------------RECIBO------------")
+                    print("-----Compra nacional----------")
+                    print(nombreDelCliente.title())
+                    nomtoConDescuento = montoDeLaCompra * descuentoVip
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Descuento del 20% que es ${nomtoConDescuento:.2f} dolares.")
+                    print(f"Total a pagar es de ${montoDeLaCompra - nomtoConDescuento:.2f} dolares")
+                
+                elif montoDeLaCompra < 200:
+                    print("------------RECIBO------------")
+                    print("-------Compra nacional--------")
+                    print(nombreDelCliente.title())
+                    precioConEnvio = montoDeLaCompra + envioNacional
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Precio del envio nacional ${envioNacional:.2f} dolares.")
+                    print(f"Total a pagar es de ${precioConEnvio:.2f} dolares")
+
+            case 2:
+                montoDeLaCompra = float(input("Ingresa el monto de la compra: "))
+                if (montoDeLaCompra >= 300):
+                    print("------------RECIBO------------")
+                    print("----Compra internacional------")
+                    print(nombreDelCliente.title())
+                    nomtoConDescuento = montoDeLaCompra * descuentoVip
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Descuento del 20% que es ${nomtoConDescuento:.2f} dolares.")
+                    print(f"Total a pagar es de ${montoDeLaCompra - nomtoConDescuento:.2f} dolares")
+                
+                elif montoDeLaCompra < 300:
+                    print("------------RECIBO------------")
+                    print("----Compra internacional------")
+                    print(nombreDelCliente.title())
+                    precioConEnvio = montoDeLaCompra + envioInternacional
+                    print(f"Precio del producto es ${montoDeLaCompra:.2f} dolares.")
+                    print(f"Precio del envio nacional ${envioInternacional:.2f} dolares.")
+                    print(f"Total a pagar es de ${precioConEnvio:.2f} dolares")
