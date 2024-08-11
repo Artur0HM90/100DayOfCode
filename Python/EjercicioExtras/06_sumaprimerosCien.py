@@ -7,4 +7,3 @@ suma = 0
 for i in range (1, IngresaNumero + 1):
     suma += i
 print(suma)
-
