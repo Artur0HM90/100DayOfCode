@@ -9,4 +9,4 @@ for i in range(1, ingresaCuantosNumerosVasIngresar + 1):
 
 #miLista = [1,2,5,6,10,15,78,45,4.5,4]
 valoMasAlto = max(miLista)
-print(f"El número mayor de la lista ingresada es: {valoMasAlto:.0f}")
+print(f"El número mayor de la lista es : {valoMasAlto:.0f}")
