@@ -24,7 +24,7 @@
 - [ ] 20. Invertir número: Invierte los dígitos de un número entero.
 - [ ] 21. Conversión de unidades: Convierte kilómetros a millas y viceversa.
 - [ ] 22. Conversion de número romano a entero: Convierte un número romano a entero.
-- [ ] 23. Mayor y menor de una lista: Encuentra el mayor y el menor número en una lista.
+- [x] 23. Mayor y menor de una lista: Encuentra el mayor y el menor número en una lista.
 - [ ] 24. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
 - [ ] 25. Palíndromo: Verifica si una cadena de texto es un palíndromo.
 - [ ] 26. Ordenar números: Ordena tres números en orden ascendente.
