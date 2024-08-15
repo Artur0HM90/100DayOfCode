@@ -7,6 +7,8 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
 """
 
+"""AHORA VAMOS ELEGIR EL LIMITE (1 - ?) Y TAMBIEN ELEGIREMOS QUE MULTIPLOS VAMOS A SACAR"""
+
 # Secuencias ANSI para cambiar color del texto
 RED = "\033[31m"
 GREEN = "\033[32m"
@@ -23,14 +25,18 @@ RESET = "\033[0m"
 primeraPalabra = "fizz"
 segundaPalabra = "buzz"
 
-for i in range (1, 101):
-    if i % 3 == 0:
-        print(YELLOW + f"Es multiplo de 3: {i} -> {primeraPalabra}" + RESET)
-    
-    elif i % 5 == 0:
-        print(BLUE + f"Es multiplo de 5: {i} -> {segundaPalabra}" + RESET)
-    
+IngresaLimite = int(input("Ingresa el limite de busqueda (1 - ?): "))
+print("INGRESA 2 NÚMEROS PARA SABER SUS MULTIPLOS")
+ingresaElPrimerMultiplo = int(input(YELLOW + "Ingresa el primer número: " + RESET))
+ingresaElSegundoMultiplo = int(input(BLUE + "Ingresa el segundo número: " + RESET))
 
+for i in range(1, IngresaLimite + 1):
+    if i % ingresaElPrimerMultiplo == 0:
+        print(YELLOW + f"Es multiplo de {ingresaElPrimerMultiplo}: {i} -> {primeraPalabra}" + RESET)
+    
+    elif i % ingresaElSegundoMultiplo == 0:
+        print(BLUE + f"Es multiplo de {ingresaElSegundoMultiplo}: {i} -> {segundaPalabra}" + RESET)
+    
 for i in range (1, 101):
-    if ((i % 3 == 0) and (i % 5 ==0)):
-        print(CYAN + f"Es multiplo de 3 y 5: {i} -> {primeraPalabra + segundaPalabra}" + RESET)
+    if ((i % ingresaElPrimerMultiplo == 0) and (i % ingresaElSegundoMultiplo ==0)):
+        print(CYAN + f"Es multiplo de {ingresaElPrimerMultiplo} y {ingresaElSegundoMultiplo}: {i} -> {primeraPalabra + segundaPalabra}" + RESET)
