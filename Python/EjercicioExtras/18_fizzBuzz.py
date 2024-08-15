@@ -26,9 +26,12 @@ primeraPalabra = "fizz"
 segundaPalabra = "buzz"
 
 IngresaLimite = int(input("Ingresa el limite de busqueda (1 - ?): "))
-print("INGRESA 2 NÚMEROS PARA SABER SUS MULTIPLOS")
+print(GREEN + "-------------------------------------------" + RESET)
+print(GREEN + "INGRESA 2 NÚMEROS PARA SABER SUS MULTIPLOS" + RESET)
+print(GREEN + "-------------------------------------------" + RESET)
 ingresaElPrimerMultiplo = int(input(YELLOW + "Ingresa el primer número: " + RESET))
 ingresaElSegundoMultiplo = int(input(BLUE + "Ingresa el segundo número: " + RESET))
+print(RED + "-------------------------------" + RESET)
 
 for i in range(1, IngresaLimite + 1):
     if i % ingresaElPrimerMultiplo == 0:
