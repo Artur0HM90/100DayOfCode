@@ -30,7 +30,7 @@
 - [ ] 26. Ordenar números: Ordena tres números en orden ascendente.
 - [ ] 30. Números primos hasta N: Encuentra todos los números primos hasta un número dado.
 - [ ] 31. Fibonacci: Genera la serie de Fibonacci hasta N términos.
-- [ ] 32. Sumar elementos de una lista: Suma todos los elementos de una lista.
+- [x] 32. Sumar elementos de una lista: Suma todos los elementos de una lista.
 - [ ] 33. Factorial recursivo: Calcula el factorial de un número utilizando recursión.
 - [ ] 34. Juego de adivinanza: Programa que permita al usuario jugar a adivinar un número con intentos limitados.
 - [ ] 35. Números perfectos: Encuentra todos los números perfectos entre 1 y 1000.
