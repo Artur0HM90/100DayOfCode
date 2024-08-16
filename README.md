@@ -26,7 +26,7 @@
 - [ ] 22. Conversion de número romano a entero: Convierte un número romano a entero.
 - [x] 23. Mayor y menor de una lista: Encuentra el mayor y el menor número en una lista.
 - [ ] 24. Contar caracteres en una cadena: Cuenta el número de caracteres en una cadena de texto.
-- [ ] 25. Palíndromo: Verifica si una cadena de texto es un palíndromo.
+- [x] 25. Palíndromo: Verifica si una cadena de texto es un palíndromo.
 - [ ] 26. Ordenar números: Ordena tres números en orden ascendente.
 - [ ] 30. Números primos hasta N: Encuentra todos los números primos hasta un número dado.
 - [ ] 31. Fibonacci: Genera la serie de Fibonacci hasta N términos.
