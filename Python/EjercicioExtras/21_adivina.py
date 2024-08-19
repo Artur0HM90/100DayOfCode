@@ -2,39 +2,18 @@
 
 intentos = 0
 
+ingresaNumeroParaAdivinar = float(input("Ingresa número para adivinar: "))
+
+print("Tienes 3 intentos.")
 while intentos < 3:
-    print("Cuanto es 1 + 1")
-    opcion = int(input("""[1] 15
-[2] 3
-[3] 2
-[4] 7
-cual eliges : """))
-    
-    if opcion == 3:
-        print(f"Correcto. La suma es 2")
+    intentos += 1
+    ingresaNumero = float(input(f"Ingresa el número oculto, {intentos} intentos: "))
+    if ingresaNumeroParaAdivinar == ingresaNumero:
+
+        print(f"Correcto el número oculto es {ingresaNumero}")
         break
     else:
-        print("Fallaste, intentalo otra vez ")
-        intentos += 1
-
+        print("Fallaste, intenta otra vez.")
+        
 if intentos == 3:
-    print("Lo siento a0gotaste tus inentos")
-
-
-while intentos < 3:
-    print("Cuanto es 1 + 5")
-    opcion = int(input("""[1] 15
-[2] 3
-[3] 2
-[4] 6
-cual eliges : """))
-    
-    if opcion == 3:
-        print(f"Correcto. La suma es 6")
-        break
-    else:
-        print("Fallaste, intentalo otra vez ")
-        intentos += 1
-
-if intentos == 3:
-    print("Lo siento a0gotaste tus inentos")
+    print("Agotaste tus intentos.")
