@@ -16,4 +16,4 @@ while intentos < 3:
         print("Fallaste, intenta otra vez.")
         
 if intentos == 3:
-    print("Agotaste tus intentos.")
+    print("Agotaste tus intentos.") 
