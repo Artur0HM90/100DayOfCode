@@ -32,7 +32,7 @@
 - [ ] 31. Fibonacci: Genera la serie de Fibonacci hasta N términos.
 - [x] 32. Sumar elementos de una lista: Suma todos los elementos de una lista.
 - [ ] 33. Factorial recursivo: Calcula el factorial de un número utilizando recursión.
-- [ ] 34. Juego de adivinanza: Programa que permita al usuario jugar a adivinar un número con intentos limitados.
+- [ ] 34. Juego de adivinanza: Programa que permita al usuario jugar a adivinar la pregunta correcta intentos limitados.
 - [ ] 35. Números perfectos: Encuentra todos los números perfectos entre 1 y 1000.
 - [ ] 36. Números amigables: Verifica si dos números son números amigables.
 - [x] 37. Calcular edad a partir de la fecha de nacimiento: Calcula la edad de una persona dado su año de nacimiento.
